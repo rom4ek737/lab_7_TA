@@ -10,7 +10,6 @@ public class GmailBusinessObject {
     private WebDriver driver;
     private GmailLoginPageObject gmailLoginPageObject;
     private GmailImportantPageObject gmailImportantPageObject;
-    private Boolean aBoolean = false;
 
     private static final Logger LOGGER = LogManager.getLogger(GmailBusinessObject.class);
 
@@ -19,15 +18,13 @@ public class GmailBusinessObject {
         this.driver = driver;
     }
 
-    public Boolean openGmailAccount(String email, String password) {
+    public void openGmailAccount(String email, String password) {
         LOGGER.info("We are started to open gmail page");
         gmailLoginPageObject = new GmailLoginPageObject(driver);
         gmailLoginPageObject.gmailLogin(email, password);
         LOGGER.info("We typed the login/password!");
         gmailLoginPageObject.openGmail();
         LOGGER.info("we opened gmail account!!!");
-        aBoolean = true;
-        return aBoolean;
     }
 
     public int selectAndDeleteImportantMessages() throws InterruptedException{

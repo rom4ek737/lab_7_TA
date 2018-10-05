@@ -368,3 +368,11 @@
 2018-10-05 03:09:35,987 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 
 2018-10-05 03:09:43,891 INFO c.e.l.h.s.GmailCorrectSteps [main] Test passed! 
 2018-10-05 03:09:43,891 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 
+2018-10-05 03:19:07,488 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 03:19:11,515 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 03:19:12,903 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 03:19:29,612 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-05 03:19:29,612 INFO c.e.l.h.s.GmailCorrectSteps [main] The test method was completed scientifically 
+2018-10-05 03:19:29,614 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 
+2018-10-05 03:19:39,212 INFO c.e.l.h.s.GmailCorrectSteps [main] Test passed! 
+2018-10-05 03:19:39,213 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 

@@ -44,17 +44,11 @@ public class GmailImportantPageObject {
     private WebElement delete;
 
     public int checkThreeMessages() throws InterruptedException {
-//        wait = new WebDriverWait(driver, 20);
-//        WebElement el;
         Thread.sleep(3000);
         System.out.println(messages.size());
         for (int i = 0; i < 3; i++) {
-//           el = wait.until(ExpectedConditions.visibilityOf(messages.get(i)));
-//             el = wait.until(ExpectedConditions.elementToBeClickable(messages.get(i)));
             messages.get(i).click();
-//            el.click();
         }
-        //System.out.println(messages.size());
         return messages.size();
     }
 

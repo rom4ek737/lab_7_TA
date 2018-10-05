@@ -18,7 +18,3 @@ Examples:
 |username               |password         |
 
 |"romanzdroktest"       |"1@3$5^7*9"       |
-
-#|"romanzdrok"           |"1@3$5^7*9"        |
-
-#|"roman"                |"1@3$5^7*9"        |
