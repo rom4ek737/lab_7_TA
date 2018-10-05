@@ -1,0 +1,370 @@
+2018-10-03 21:16:13,298 INFO c.e.l.h.GmaiLoginBOTest [main] Before test method 
+2018-10-03 21:16:20,773 INFO c.e.l.h.GmaiLoginBOTest [main] Test method 
+2018-10-03 21:16:23,266 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-03 21:16:24,709 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-03 21:16:40,678 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-03 21:16:40,690 INFO c.e.l.h.GmailBusinessObject [main] We are starting to check the important messages 
+2018-10-03 21:16:44,700 INFO c.e.l.h.GmailBusinessObject [main] Messages are checked! 
+2018-10-03 21:16:45,370 INFO c.e.l.h.GmailBusinessObject [main] Folder 'Important' was open! 
+2018-10-03 21:16:46,029 INFO c.e.l.h.GmaiLoginBOTest [main] After test method have finished! 
+2018-10-03 21:18:55,491 INFO c.e.l.h.GmaiLoginBOTest [main] Before test method 
+2018-10-03 21:19:01,376 INFO c.e.l.h.GmaiLoginBOTest [main] Test method 
+2018-10-03 21:19:05,130 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-03 21:19:06,349 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-03 21:19:26,228 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-03 21:19:26,239 INFO c.e.l.h.GmailBusinessObject [main] We are starting to check the important messages 
+2018-10-03 21:19:30,202 INFO c.e.l.h.GmailBusinessObject [main] Messages are checked! 
+2018-10-03 21:19:30,902 INFO c.e.l.h.GmailBusinessObject [main] Folder 'Important' was open! 
+2018-10-03 21:19:40,959 INFO c.e.l.h.GmaiLoginBOTest [main] After test method have finished! 
+2018-10-03 21:21:08,919 INFO c.e.l.h.GmaiLoginBOTest [main] Before test method 
+2018-10-03 21:21:14,461 INFO c.e.l.h.GmaiLoginBOTest [main] Test method 
+2018-10-03 21:21:16,444 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-03 21:21:17,650 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-03 21:21:34,024 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-03 21:21:34,036 INFO c.e.l.h.GmailBusinessObject [main] We are starting to check the important messages 
+2018-10-03 21:21:37,997 INFO c.e.l.h.GmailBusinessObject [main] Messages are checked! 
+2018-10-03 21:21:38,648 INFO c.e.l.h.GmailBusinessObject [main] Folder 'Important' was open! 
+2018-10-03 21:21:39,153 INFO c.e.l.h.GmaiLoginBOTest [main] After test method have finished! 
+2018-10-03 21:21:46,486 INFO c.e.l.h.GmaiLoginBOTest [main] Before test method 
+2018-10-03 21:21:51,269 INFO c.e.l.h.GmaiLoginBOTest [main] Test method 
+2018-10-03 21:21:55,148 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-03 21:21:56,482 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-03 21:22:11,688 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-03 21:22:11,700 INFO c.e.l.h.GmailBusinessObject [main] We are starting to check the important messages 
+2018-10-03 21:22:15,680 INFO c.e.l.h.GmailBusinessObject [main] Messages are checked! 
+2018-10-03 21:22:16,251 INFO c.e.l.h.GmailBusinessObject [main] Folder 'Important' was open! 
+2018-10-03 21:22:16,829 INFO c.e.l.h.GmaiLoginBOTest [main] After test method have finished! 
+2018-10-03 21:23:18,448 INFO c.e.l.h.GmaiLoginBOTest [main] Before test method 
+2018-10-03 21:23:23,112 INFO c.e.l.h.GmaiLoginBOTest [main] Test method 
+2018-10-03 21:23:25,328 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-03 21:23:26,662 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-03 21:23:42,530 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-03 21:23:42,543 INFO c.e.l.h.GmailBusinessObject [main] We are starting to check the important messages 
+2018-10-03 21:23:46,086 INFO c.e.l.h.GmaiLoginBOTest [main] After test method have finished! 
+2018-10-03 21:24:13,401 INFO c.e.l.h.GmaiLoginBOTest [main] Before test method 
+2018-10-03 21:24:19,254 INFO c.e.l.h.GmaiLoginBOTest [main] Test method 
+2018-10-03 21:24:22,329 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-03 21:24:24,157 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-03 21:24:40,100 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-03 21:24:40,113 INFO c.e.l.h.GmailBusinessObject [main] We are starting to check the important messages 
+2018-10-03 21:24:44,065 INFO c.e.l.h.GmailBusinessObject [main] Messages are checked! 
+2018-10-03 21:24:44,775 INFO c.e.l.h.GmailBusinessObject [main] Folder 'Important' was open! 
+2018-10-03 21:24:54,906 INFO c.e.l.h.GmaiLoginBOTest [main] After test method have finished! 
+2018-10-03 21:26:07,059 INFO c.e.l.h.GmaiLoginBOTest [main] Before test method 
+2018-10-03 21:26:11,903 INFO c.e.l.h.GmaiLoginBOTest [main] Test method 
+2018-10-03 21:26:13,950 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-03 21:26:15,105 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-03 21:26:30,756 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-03 21:26:30,765 INFO c.e.l.h.GmailBusinessObject [main] We are starting to check the important messages 
+2018-10-03 21:26:34,673 INFO c.e.l.h.GmailBusinessObject [main] Messages are checked! 
+2018-10-03 21:26:35,268 INFO c.e.l.h.GmailBusinessObject [main] Folder 'Important' was open! 
+2018-10-03 21:26:38,866 INFO c.e.l.h.GmailBusinessObject [main] The letters have been deleted! 
+2018-10-03 21:26:38,870 INFO c.e.l.h.GmaiLoginBOTest [main] The test method was completed scientifically 
+2018-10-03 21:26:38,873 INFO c.e.l.h.GmaiLoginBOTest [main] After test method have finished! 
+2018-10-03 21:27:21,252 INFO c.e.l.h.GmaiLoginBOTest [main] Before test method 
+2018-10-03 21:27:27,034 INFO c.e.l.h.GmaiLoginBOTest [main] Test method 
+2018-10-03 21:27:29,103 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-03 21:27:30,538 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-03 21:27:45,437 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-03 21:27:45,448 INFO c.e.l.h.GmailBusinessObject [main] We are starting to check the important messages 
+2018-10-03 21:27:49,423 INFO c.e.l.h.GmailBusinessObject [main] Messages are checked! 
+2018-10-03 21:27:50,022 INFO c.e.l.h.GmailBusinessObject [main] Folder 'Important' was open! 
+2018-10-03 21:27:53,433 INFO c.e.l.h.GmailBusinessObject [main] The letters have been deleted! 
+2018-10-03 21:27:53,437 INFO c.e.l.h.GmaiLoginBOTest [main] The test method was completed scientifically 
+2018-10-03 21:27:53,440 INFO c.e.l.h.GmaiLoginBOTest [main] After test method have finished! 
+2018-10-03 21:28:23,948 INFO c.e.l.h.GmaiLoginBOTest [main] Before test method 
+2018-10-03 21:28:30,070 INFO c.e.l.h.GmaiLoginBOTest [main] Test method 
+2018-10-03 21:28:32,776 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-03 21:28:33,913 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-03 21:28:50,235 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-03 21:28:50,248 INFO c.e.l.h.GmailBusinessObject [main] We are starting to check the important messages 
+2018-10-03 21:28:54,224 INFO c.e.l.h.GmailBusinessObject [main] Messages are checked! 
+2018-10-03 21:28:54,947 INFO c.e.l.h.GmailBusinessObject [main] Folder 'Important' was open! 
+2018-10-03 21:28:55,831 INFO c.e.l.h.GmailBusinessObject [main] The letters have been deleted! 
+2018-10-03 21:28:55,834 INFO c.e.l.h.GmaiLoginBOTest [main] The test method was completed scientifically 
+2018-10-03 21:28:55,836 INFO c.e.l.h.GmaiLoginBOTest [main] After test method have finished! 
+2018-10-03 21:37:55,294 INFO c.e.l.h.GmaiLoginBOTest [main] Before test method 
+2018-10-03 21:38:00,150 INFO c.e.l.h.GmaiLoginBOTest [main] Test method 
+2018-10-03 21:38:02,205 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-03 21:38:03,307 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-03 21:38:19,309 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-03 21:38:19,317 INFO c.e.l.h.GmailBusinessObject [main] We are starting to check the important messages 
+2018-10-03 21:38:20,209 INFO c.e.l.h.GmaiLoginBOTest [main] After test method have finished! 
+2018-10-03 21:39:36,076 INFO c.e.l.h.GmaiLoginBOTest [main] Before test method 
+2018-10-03 21:39:40,911 INFO c.e.l.h.GmaiLoginBOTest [main] Test method 
+2018-10-03 21:39:42,927 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-03 21:39:44,187 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-03 21:39:59,284 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-03 21:39:59,297 INFO c.e.l.h.GmailBusinessObject [main] We are starting to check the important messages 
+2018-10-03 21:39:59,938 INFO c.e.l.h.GmaiLoginBOTest [main] After test method have finished! 
+2018-10-03 21:40:36,600 INFO c.e.l.h.GmaiLoginBOTest [main] Before test method 
+2018-10-03 21:40:42,910 INFO c.e.l.h.GmaiLoginBOTest [main] Test method 
+2018-10-03 21:40:45,688 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-03 21:40:46,867 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-03 21:41:12,193 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-03 21:41:12,205 INFO c.e.l.h.GmailBusinessObject [main] We are starting to check the important messages 
+2018-10-03 21:41:12,815 INFO c.e.l.h.GmaiLoginBOTest [main] After test method have finished! 
+2018-10-03 21:42:33,093 INFO c.e.l.h.GmaiLoginBOTest [main] Before test method 
+2018-10-03 21:42:37,858 INFO c.e.l.h.GmaiLoginBOTest [main] Test method 
+2018-10-03 21:42:40,209 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-03 21:42:41,413 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-03 21:42:55,832 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-03 21:42:55,849 INFO c.e.l.h.GmailBusinessObject [main] We are starting to check the important messages 
+2018-10-03 21:42:57,924 INFO c.e.l.h.GmaiLoginBOTest [main] After test method have finished! 
+2018-10-03 21:46:45,645 INFO c.e.l.h.GmaiLoginBOTest [main] Before test method 
+2018-10-03 21:46:51,282 INFO c.e.l.h.GmaiLoginBOTest [main] Test method 
+2018-10-03 21:46:53,742 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-03 21:46:55,153 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-03 21:47:10,768 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-03 21:47:10,784 INFO c.e.l.h.GmailBusinessObject [main] We are starting to check the important messages 
+2018-10-03 21:47:11,470 INFO c.e.l.h.GmaiLoginBOTest [main] After test method have finished! 
+2018-10-04 00:34:24,380 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:34:30,912 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:34:34,448 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:41:47,144 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:41:51,995 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:41:55,459 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:45:08,959 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:45:14,009 INFO c.e.l.h.GmailSteps [main] Test method 
+2018-10-04 00:45:16,297 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:45:19,797 INFO c.e.l.h.GmailSteps [main] Test method 
+2018-10-04 00:45:22,111 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:45:25,914 INFO c.e.l.h.GmailSteps [main] Test method 
+2018-10-04 00:49:37,836 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:49:42,776 INFO c.e.l.h.GmailSteps [main] Test method 
+2018-10-04 00:49:44,838 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:49:48,350 INFO c.e.l.h.GmailSteps [main] Test method 
+2018-10-04 00:49:51,278 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:49:54,792 INFO c.e.l.h.GmailSteps [main] Test method 
+2018-10-04 00:54:41,616 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:54:46,438 INFO c.e.l.h.GmailSteps [main] Test method 
+2018-10-04 00:54:48,515 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:54:51,974 INFO c.e.l.h.GmailSteps [main] Test method 
+2018-10-04 00:54:54,392 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:54:57,917 INFO c.e.l.h.GmailSteps [main] Test method 
+2018-10-04 00:57:25,980 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:57:30,959 INFO c.e.l.h.GmailSteps [main] Test method 
+2018-10-04 00:57:33,112 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:57:36,546 INFO c.e.l.h.GmailSteps [main] Test method 
+2018-10-04 00:57:39,021 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:57:43,964 INFO c.e.l.h.GmailSteps [main] Test method 
+2018-10-04 00:58:38,669 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 00:58:43,767 INFO c.e.l.h.GmailSteps [main] Test method 
+2018-10-04 01:27:40,734 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 01:27:46,614 INFO c.e.l.h.GmailSteps [main] Test method 
+2018-10-04 01:27:50,092 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 01:27:55,925 INFO c.e.l.h.GmailSteps [main] Test method 
+2018-10-04 01:28:01,798 INFO c.e.l.h.GmailSteps [main] Before test method 
+2018-10-04 01:28:06,596 INFO c.e.l.h.GmailSteps [main] Test method 
+2018-10-04 23:23:41,804 INFO c.e.l.h.s.GmailSteps [main] Before test method 
+2018-10-04 23:23:56,308 INFO c.e.l.h.s.GmailSteps [main] Test method 
+2018-10-04 23:24:01,812 INFO c.e.l.h.s.GmailSteps [main] Before test method 
+2018-10-04 23:24:08,164 INFO c.e.l.h.s.GmailSteps [main] Test method 
+2018-10-04 23:24:15,018 INFO c.e.l.h.s.GmailSteps [main] Before test method 
+2018-10-04 23:24:20,028 INFO c.e.l.h.s.GmailSteps [main] Test method 
+2018-10-05 01:23:26,705 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 01:25:43,910 INFO c.e.l.h.s.GmailSteps [main] Before test method 
+2018-10-05 01:25:48,720 INFO c.e.l.h.s.GmailSteps [main] Test method 
+2018-10-05 01:25:52,493 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 01:27:20,481 INFO c.e.l.h.s.GmailSteps [main] Before test method 
+2018-10-05 01:27:25,249 INFO c.e.l.h.s.GmailSteps [main] Test method 
+2018-10-05 01:27:27,792 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 01:27:53,516 INFO c.e.l.h.GmaiLoginBOTest [main] Before test method 
+2018-10-05 01:27:58,440 INFO c.e.l.h.GmaiLoginBOTest [main] Test method 
+2018-10-05 01:28:01,247 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 01:28:02,844 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 01:29:39,653 INFO c.e.l.h.s.GmailSteps [main] Before test method 
+2018-10-05 01:29:44,896 INFO c.e.l.h.s.GmailSteps [main] Test method 
+2018-10-05 01:29:48,146 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 01:33:15,099 INFO c.e.l.h.s.GmailSteps [main] Before test method 
+2018-10-05 01:33:20,310 INFO c.e.l.h.s.GmailSteps [main] Test method 
+2018-10-05 01:33:22,114 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 01:33:23,340 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 01:33:38,430 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-05 01:33:39,082 INFO c.e.l.h.s.GmailSteps [main] The test method was completed scientifically 
+2018-10-05 01:35:42,949 INFO c.e.l.h.s.GmailSteps [main] Before test method 
+2018-10-05 01:35:47,802 INFO c.e.l.h.s.GmailSteps [main] Test method 
+2018-10-05 01:35:50,754 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 01:35:52,260 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 01:36:07,883 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-05 01:36:07,894 INFO c.e.l.h.s.GmailSteps [main] The test method was completed scientifically 
+2018-10-05 01:36:07,895 INFO c.e.l.h.s.GmailSteps [main] After test method have finished! 
+2018-10-05 01:49:14,148 INFO c.e.l.h.s.GmailSteps [main] Before test method 
+2018-10-05 01:49:19,388 INFO c.e.l.h.s.GmailSteps [main] Test method 
+2018-10-05 01:49:22,979 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 01:49:24,357 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 01:49:40,997 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-05 01:49:41,065 INFO c.e.l.h.s.GmailSteps [main] The test method was completed scientifically 
+2018-10-05 01:49:41,067 INFO c.e.l.h.s.GmailSteps [main] After test method have finished! 
+2018-10-05 01:52:33,224 INFO c.e.l.h.s.GmailSteps [main] Before test method 
+2018-10-05 01:52:38,671 INFO c.e.l.h.s.GmailSteps [main] Test method 
+2018-10-05 01:52:42,443 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 01:52:43,769 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 01:52:59,538 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-05 01:52:59,549 INFO c.e.l.h.s.GmailSteps [main] The test method was completed scientifically 
+2018-10-05 01:52:59,551 INFO c.e.l.h.s.GmailSteps [main] After test method have finished! 
+2018-10-05 01:53:00,501 INFO c.e.l.h.s.GmailSteps [main] Before test method 
+2018-10-05 01:53:04,460 INFO c.e.l.h.s.GmailSteps [main] Test method 
+2018-10-05 01:53:06,660 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 01:53:07,760 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 01:53:17,954 INFO c.e.l.h.s.GmailSteps [main] Before test method 
+2018-10-05 01:53:21,339 INFO c.e.l.h.s.GmailSteps [main] Test method 
+2018-10-05 01:53:23,892 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:02:17,959 INFO c.e.l.h.s.GmailSteps [main] Before test method 
+2018-10-05 02:02:23,491 INFO c.e.l.h.s.GmailSteps [main] Test method 
+2018-10-05 02:02:26,113 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:02:27,264 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 02:02:44,416 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-05 02:02:44,429 INFO c.e.l.h.s.GmailSteps [main] The test method was completed scientifically 
+2018-10-05 02:02:44,431 INFO c.e.l.h.s.GmailSteps [main] After test method have finished! 
+2018-10-05 02:02:45,350 INFO c.e.l.h.s.GmailSteps [main] Before test method 
+2018-10-05 02:02:49,120 INFO c.e.l.h.s.GmailSteps [main] Test method 
+2018-10-05 02:02:51,382 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:02:52,407 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 02:17:14,058 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:17:19,435 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:17:23,471 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:17:24,742 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 02:17:40,686 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-05 02:17:42,347 INFO c.e.l.h.s.GmailCorrectSteps [main] The test method was completed scientifically 
+2018-10-05 02:17:42,348 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 
+2018-10-05 02:17:43,274 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:17:47,055 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:17:49,630 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:18:00,143 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:18:03,466 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:18:05,871 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:18:07,141 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 02:18:17,243 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:18:20,798 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:18:24,442 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:23:13,747 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:23:18,535 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:23:20,397 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:23:21,716 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 02:23:38,162 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-05 02:23:38,175 INFO c.e.l.h.s.GmailCorrectSteps [main] The test method was completed scientifically 
+2018-10-05 02:23:38,177 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 
+2018-10-05 02:23:39,079 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:23:42,572 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:23:44,732 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:23:55,216 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:23:58,644 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:24:01,131 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:24:02,532 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 02:29:51,342 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:29:56,094 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:29:58,088 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:29:59,274 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 02:30:15,015 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-05 02:30:15,733 INFO c.e.l.h.s.GmailCorrectSteps [main] The test method was completed scientifically 
+2018-10-05 02:30:15,734 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 
+2018-10-05 02:30:16,725 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:30:20,223 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:30:33,268 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:30:36,624 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:30:40,534 INFO c.e.l.h.s.GmailCorrectSteps [main] The test method was completed scientifically 
+2018-10-05 02:30:40,548 INFO c.e.l.h.s.GmailCorrectSteps [main] Test passed! 
+2018-10-05 02:30:40,548 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 
+2018-10-05 02:30:41,343 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:30:44,742 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:36:25,582 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:36:30,465 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:36:33,240 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:36:34,758 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 02:36:50,610 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-05 02:36:50,628 INFO c.e.l.h.s.GmailCorrectSteps [main] The test method was completed scientifically 
+2018-10-05 02:36:50,630 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 
+2018-10-05 02:36:51,558 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:36:55,001 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:37:08,382 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:37:11,745 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:37:15,216 INFO c.e.l.h.s.GmailCorrectSteps [main] The test method was completed scientifically 
+2018-10-05 02:37:15,228 INFO c.e.l.h.s.GmailCorrectSteps [main] Test passed! 
+2018-10-05 02:37:15,229 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 
+2018-10-05 02:37:16,003 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:37:19,464 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:41:48,638 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:41:53,448 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:41:56,850 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:41:58,320 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 02:42:15,922 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-05 02:42:15,923 INFO c.e.l.h.s.GmailCorrectSteps [main] The test method was completed scientifically 
+2018-10-05 02:42:15,925 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 
+2018-10-05 02:42:16,866 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:42:20,215 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:42:22,828 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:42:33,369 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:42:36,731 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:42:39,574 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:42:41,188 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 02:42:51,260 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:42:54,681 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:42:56,894 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:45:02,126 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:45:07,033 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:45:09,207 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:45:10,545 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 02:45:25,351 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-05 02:45:25,352 INFO c.e.l.h.s.GmailCorrectSteps [main] The test method was completed scientifically 
+2018-10-05 02:45:25,353 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 
+2018-10-05 02:45:26,248 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:45:29,583 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:45:31,745 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:45:42,287 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:45:45,748 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:45:48,028 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:45:49,120 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 02:45:59,179 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:46:02,601 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:46:04,991 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:53:35,017 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:53:40,384 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:53:42,186 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:53:43,607 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 02:53:59,047 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-05 02:53:59,047 INFO c.e.l.h.s.GmailCorrectSteps [main] The test method was completed scientifically 
+2018-10-05 02:53:59,048 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 
+2018-10-05 02:53:59,985 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:54:03,744 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:54:06,827 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:54:17,304 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:54:20,809 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:54:22,775 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:54:23,927 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 02:54:34,031 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:54:37,853 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:54:42,617 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:57:40,270 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:57:45,426 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:57:47,855 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:57:49,257 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 02:58:04,278 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-05 02:58:04,278 INFO c.e.l.h.s.GmailCorrectSteps [main] The test method was completed scientifically 
+2018-10-05 02:58:04,280 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 
+2018-10-05 02:58:05,221 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:58:08,580 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:58:11,531 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:58:22,048 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:58:25,421 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:58:27,358 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 02:58:28,749 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 02:58:38,818 INFO c.e.l.h.s.GmailCorrectSteps [main] Before test method 
+2018-10-05 02:58:42,228 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 02:58:44,383 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 03:06:19,711 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 03:06:21,499 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 03:06:22,797 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 03:06:39,543 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-05 03:06:39,543 INFO c.e.l.h.s.GmailCorrectSteps [main] The test method was completed scientifically 
+2018-10-05 03:06:39,545 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 
+2018-10-05 03:06:47,545 INFO c.e.l.h.s.GmailCorrectSteps [main] Test passed! 
+2018-10-05 03:06:47,546 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 
+2018-10-05 03:09:16,923 INFO c.e.l.h.s.GmailCorrectSteps [main] Test method 
+2018-10-05 03:09:18,768 INFO c.e.l.h.GmailBusinessObject [main] We are started to open gmail page 
+2018-10-05 03:09:19,975 INFO c.e.l.h.GmailBusinessObject [main] We typed the login/password! 
+2018-10-05 03:09:35,986 INFO c.e.l.h.GmailBusinessObject [main] we opened gmail account!!! 
+2018-10-05 03:09:35,986 INFO c.e.l.h.s.GmailCorrectSteps [main] The test method was completed scientifically 
+2018-10-05 03:09:35,987 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 
+2018-10-05 03:09:43,891 INFO c.e.l.h.s.GmailCorrectSteps [main] Test passed! 
+2018-10-05 03:09:43,891 INFO c.e.l.h.s.GmailCorrectSteps [main] After test method have finished! 
