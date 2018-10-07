@@ -1,0 +1,12 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">-->
+<!--&lt;!&ndash;<suite name="Suite" data-provider-thread-count="3" parallel="methods">&ndash;&gt;-->
+<!--<suite name="Suite" parallel = "tests" data-provider-thread-count="3">-->
+    <!--&lt;!&ndash;<suite name="Suite">&ndash;&gt;-->
+    <!--<test name="Test" >-->
+        <!--<classes>-->
+            <!--&lt;!&ndash;<class name="lab7part3.HW5.DataproviderClass"/>&ndash;&gt;-->
+            <!--<class name="lab7part3.HW5.GmaiLoginBOFinalTest" />-->
+        <!--</classes>-->
+    <!--</test>-->
+<!--</suite>-->
