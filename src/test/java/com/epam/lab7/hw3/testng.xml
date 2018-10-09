@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel = "methods" data-provider-thread-count="3">
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="com.epam.lab7.hw3.MyListener"/>
+    </listeners>
+    <test name="Test1" >
+        <classes>
+            <!--<class name="lab7part3.HW5.DataproviderClass"/>-->
+            <class name="com.epam.lab7.hw3.GmaiLoginBOFinalTest" />
+        </classes>
+    </test>
+    <test name="Test2" >
+        <classes>
+            <class name="com.epam.lab7.hw3.GmaiLoginBOFinalTest" />
+        </classes>
+    </test>
+</suite>
